@@ -1,0 +1,84 @@
+
+
+
+.background{
+    width: 800px;
+    height: 500px;
+    background-color: rgb(203, 224, 234);
+}
+.bg{
+    width: 400px;
+    margin: 50px auto;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    position: relative;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.content{
+
+    border-radius: 10px;
+    position: relative;
+}
+
+.img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.promotion{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 4px;
+    padding: 1px 5px;
+    background-color: rgb(125, 100, 100);
+    color: rgb(175, 179, 182);
+}
+
+.time{
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+    padding: 2px 5px;
+    background-color: rgb(217, 234, 218);
+    font: black;
+    border-radius: 2px;
+}
+.mssg{
+    position: absolute;
+    bottom: 20px;
+    color: white;
+    padding: 2px 50px;
+    background-color: rgb(54, 72, 211);
+    padding: 1px 5px;
+}
+.logo{
+    border-radius: 4px;
+}
+.line{
+    border: 1px solid rgb(208, 228, 235);
+    margin-bottom: 15px;
+}
+.chinese{
+    color: rgb(135, 138, 141);
+    font-size: 20px;
+    margin-top: 10px;
+}
+.title{
+    margin-bottom: 0px;
+}
+
+.text{
+    margin-left: 50px;
+    font-size: 14px;
+    position: absolute;
+    bottom: -5px;
+    left: 42px;
+    color: rgb(116, 120, 123);
+}
+
+/*<img class="img" src="https://source.unsplash.com/1600x1000/?food" alt="">
+*/
